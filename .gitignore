@@ -1,9 +1,6 @@
 # Ignore all SSH keys
 .ssh/*
 
-# Allow ONLY public keys
-!.ssh/*.pub
-
 # Ignore sensitive files
 hosts.txt
 passwords.txt
