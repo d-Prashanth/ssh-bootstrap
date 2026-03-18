@@ -121,7 +121,5 @@ Key copied to 192.168.1.11
 ---
 
 ## 👨‍💻 Author
-```
+
 Prashanth D
-Linux Instructor(Freelance)
-```
