@@ -35,4 +35,4 @@ exec 3<&-
 exec 4<&-
 
 echo "SSH key injection completed!"
-echo "bye!"
+echo "bye!bye!"
