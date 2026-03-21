@@ -28,7 +28,6 @@ do
     else
         echo "Failed for $HOST"
     fi
-echo "All Done,bye!"
 done
 
 # Close file descriptors
@@ -36,3 +35,4 @@ exec 3<&-
 exec 4<&-
 
 echo "SSH key injection completed!"
+echo "bye!"
